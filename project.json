@@ -1,0 +1,22 @@
+{
+  "name": "maplestory-character-toolkit",
+  "displayName": "MapleStory Character Toolkit",
+  "programType": "character-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character profiles",
+    "Equipment notes",
+    "Activity records"
+  ],
+  "topics": [
+    "maplestory-character-toolkit",
+    "maplestory-tools",
+    "maplestory-menu",
+    "maplestory-settings",
+    "maplestory-configs",
+    "maplestory-character-profiles",
+    "maplestory-equipment-notes"
+  ]
+}
